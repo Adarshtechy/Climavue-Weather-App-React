@@ -34,14 +34,11 @@ It provides real-time weather information for cities around the world with a cle
 ## 📸 Screenshots
 ├── home-screen.png
 
-<img width="1891" height="949" alt="home-screen" src="https://github.com/user-attachments/assets/94c4459f-601e-4980-bd57-61b65c0fd3b7" />
+<img width="1863" height="949" alt="home-screen" src="https://github.com/user-attachments/assets/9fc27ade-5aca-4877-a4c9-9f013d11b4ca" />
 
 ├── search-results.png
 
-<img width="1891" height="955" alt="search-results" src="https://github.com/user-attachments/assets/39620e00-8688-442b-8ffd-baf57fa066b7" />
-
-
----
+<img width="1870" height="955" alt="search-results" src="https://github.com/user-attachments/assets/3d3390a5-e0d4-45c9-9174-73915df91b04" />
 
 ## 📦 Getting Started
 
